@@ -1,7 +1,5 @@
 # black-solar
 
-
-<!DOCTYPE html>
 <html>
 <head>
     <style>
